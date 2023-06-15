@@ -17,6 +17,20 @@
                         "linkToSite": "https://abdulrahilsheikh.github.io/Portfolio-v2/"
                 },
                 {
+                        "id": "june-14-2023",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/WordSearch.png",
+                        "title": "Wordify",
+                        "content": "Word search game in React.js",
+                        "type": "Game",
+                        "tags": [
+                                "Tailwind CSS",
+                                "React.JS",
+                                "Faker.js"
+                        ],
+                        "description": "This is a word search game made in React.js. It uses Faker.Js to generate words. And all the animations are made using js no framework",
+                        "linkToSite": "https://abdulrahilsheikh.github.io/Word-Search/"
+                },
+                {
                         "id": 2,
                         "type": "Portfolio",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/SamuraiPortfolio.png",
