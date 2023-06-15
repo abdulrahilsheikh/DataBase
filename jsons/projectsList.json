@@ -3,9 +3,9 @@
                 {
                         "id": "june-15-2023",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/Portfolio-v2.png",
-                        "title": "React Admin Dashboard",
+                        "title": "My Portfolio",
                         "content": "This is my Creative Portfolio",
-                        "type": "personal",
+                        "type": "Portfolio",
                         "tags": [
                                 "Tailwind CSS",
                                 "React.JS",
@@ -18,7 +18,7 @@
                 },
                 {
                         "id": 2,
-                        "type": "personal",
+                        "type": "Portfolio",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/SamuraiPortfolio.png",
                         "title": "Samurai Style Portfolio",
                         "content": "This is my Creative Portfolio",
@@ -33,7 +33,7 @@
                 },
                 {
                         "id": 3,
-                        "type": "personal",
+                        "type": "Algorithm",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/RadixSortAlgo.png",
                         "title": "Radix Sort Algorithm",
                         "content": "Algorithm visualizer",
@@ -46,7 +46,7 @@
                 },
                 {
                         "id": 1,
-                        "type": "personal",
+                        "type": "CMS",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/ReactAdminDashboard.png",
                         "title": "React Admin Dashboard",
                         "content": "This is a admin pannel made in React.Js and Tailwind CSS",
@@ -60,7 +60,7 @@
                 },
                 {
                         "id": 4,
-                        "type": "personal",
+                        "type": "Algorithm",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/NaivePatternFindingAlgo.png",
                         "title": "Naive Algorithm For Pattern Searching ",
                         "content": "Algorithm visualizer",
@@ -73,7 +73,7 @@
                 },
                 {
                         "id": 5,
-                        "type": "personal",
+                        "type": "Algorithm",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/DutchesNationalFlag.png",
                         "title": "Dutches National Flag Algo",
                         "content": "Algorithm visualizer",
