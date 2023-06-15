@@ -36,7 +36,7 @@
                         "type": "personal",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/RadixSortAlgo.png",
                         "title": "Radix Sort Algorithm",
-                        "content": "This is my Creative Portfolio",
+                        "content": "Algorithm visualizer",
                         "tags": [
                                 "Tailwind CSS",
                                 "React.JS"
@@ -62,15 +62,27 @@
                         "id": 4,
                         "type": "personal",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/NaivePatternFindingAlgo.png",
-                        "title": "Naive Algorithm For Pattern Searching",
-                        "content": "This is my Creative Portfolio",
+                        "title": "Naive Algorithm For Pattern Searching ",
+                        "content": "Algorithm visualizer",
                         "tags": [
                                 "Tailwind CSS",
-                                "React.JS",
-                                "React-Three-Fiber "
+                                "React.JS"
+                        ],
+                        "description": "This a pattern searching algorithm visualizer. You can visualize how the pattern is searched in a string.",
+                        "linkToSite": "https://abdulrahilsheikh.github.io/Naive-Algorithm-For-Pattern-Searching/"
+                },
+                {
+                        "id": 5,
+                        "type": "personal",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/DutchesNationalFlag.png",
+                        "title": "Dutches National Flag Algo",
+                        "content": "Algorithm visualizer",
+                        "tags": [
+                                "Tailwind CSS",
+                                "React.JS"
                         ],
                         "description": "This is my personal portfolio website. Inpired by samurai theme. All the 3d models are implemented with the help of React-Three-Fiber. And for styling Tailwind CSS is used. ",
-                        "linkToSite": "https://abdulrahilsheikh.github.io/Naive-Algorithm-For-Pattern-Searching/"
+                        "linkToSite": "https://abdulrahilsheikh.github.io/Dutches-national-flag-algo/"
                 }
         ]
 }
