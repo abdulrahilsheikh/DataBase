@@ -31,6 +31,19 @@
                         "linkToSite": "https://abdulrahilsheikh.github.io/Word-Search/"
                 },
                 {
+                        "id": "june-13-2023",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/NikeStorev1.webp",
+                        "title": "Nike Store Mockup",
+                        "content": "A minimalistic ecommerce designe done in React.js",
+                        "type": "Ecom",
+                        "tags": [
+                                "Tailwind CSS",
+                                "React.JS"
+                        ],
+                        "description": "This is a simple ecommerce design done in React.js. It is more of a design mockup.",
+                        "linkToSite": "https://abdulrahilsheikh.github.io/Nike-Store-v1/"
+                },
+                {
                         "id": 2,
                         "type": "Portfolio",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/SamuraiPortfolio.png",
