@@ -1,6 +1,51 @@
 {
         "projects": [
                 {
+                        "id": "june-16-2023",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/confidential.png",
+                        "title": "Bmpd",
+                        "content": "This is a client project ive wokerd on.",
+                        "type": "Professional",
+                        "tags": [
+                                "Bootstrap",
+                                "React.JS",
+                                "Next.js",
+                                "Redux"
+                        ],
+                        "description": "This is a client project ive wokerd on in coditas.",
+                        "linkToSite": ""
+                },
+                {
+                        "id": "june-17-2023",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/confidential.png",
+                        "title": "Hydrafacial Privacy Policy",
+                        "content": "This is a client project ive wokerd on.",
+                        "type": "Professional",
+                        "tags": [
+                                "Bootstrap",
+                                "React.JS",
+                                "Next.js",
+                                "Redux"
+                        ],
+                        "description": "This is a client project ive wokerd on in coditas.",
+                        "linkToSite": ""
+                },
+                {
+                        "id": "june-18-2023",
+                        "img": "https://abdulrahilsheikh.github.io/DataBase/images/confidential.png",
+                        "title": "Hydrafacial Webapp",
+                        "content": "This is a client project ive wokerd on.",
+                        "type": "Professional",
+                        "tags": [
+                                "Bootstrap",
+                                "React.JS",
+                                "Next.js",
+                                "Redux"
+                        ],
+                        "description": "This is a client project ive wokerd on in coditas.",
+                        "linkToSite": ""
+                },
+                {
                         "id": "june-15-2023",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/Portfolio-v2.png",
                         "title": "My Portfolio",
