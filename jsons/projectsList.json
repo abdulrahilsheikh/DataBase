@@ -24,8 +24,7 @@
                         "tags": [
                                 "Bootstrap",
                                 "React.JS",
-                                "Next.js",
-                                "Redux"
+                                "Next.js"
                         ],
                         "description": "This is a client project ive wokerd on in coditas.",
                         "linkToSite": ""
@@ -37,10 +36,9 @@
                         "content": "This is a client project ive wokerd on.",
                         "type": "Professional",
                         "tags": [
-                                "Bootstrap",
                                 "React.JS",
-                                "Next.js",
-                                "Redux"
+                                "Redux",
+                                "React Router Dom"
                         ],
                         "description": "This is a client project ive wokerd on in coditas.",
                         "linkToSite": ""
