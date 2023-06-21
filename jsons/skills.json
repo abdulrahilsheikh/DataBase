@@ -3,72 +3,72 @@
     {
       "title": "React.js",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/react.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/react.png"
     },
     {
       "title": "Next.js",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/nextjs.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/nextjs.png"
     },
     {
       "title": "Redux",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/Redux.webp"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/Redux.webp"
     },
     {
       "title": "Javascript",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/javascript.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/javascript.png"
     },
     {
       "title": "Typescript",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/typescript.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/typescript.png"
     },
     {
       "title": "Node.Js",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/node-js.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/node-js.png"
     },
     {
       "title": "HTML",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/html5.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/html5.png"
     },
     {
       "title": "CSS",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/css.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/css.png"
     },
     {
       "title": "SASS",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/sass.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/sass.png"
     },
     {
       "title": "MUI",
       "rating": 8,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/mui.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/mui.png"
     },
     {
       "title": "MongoDb",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/mongodb.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/mongodb.png"
     },
     {
       "title": "Firebase",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/firebase.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/firebase.png"
     },
     {
       "title": "Express.JS",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/expressjsLogo.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/expressjsLogo.png"
     },
     {
       "title": "Jest",
       "rating": 9,
-      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/Jest.png"
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/Jest.png"
     }
   ]
 }
