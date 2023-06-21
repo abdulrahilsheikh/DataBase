@@ -1,0 +1,74 @@
+{
+  "skills": [
+    {
+      "title": "React.js",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/react.png"
+    },
+    {
+      "title": "Next.js",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/nextjs.png"
+    },
+    {
+      "title": "Redux",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/Redux.webp"
+    },
+    {
+      "title": "Javascript",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/javascript.png"
+    },
+    {
+      "title": "Typescript",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/typescript.png"
+    },
+    {
+      "title": "Node.Js",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/node-js.png"
+    },
+    {
+      "title": "HTML",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/html5.png"
+    },
+    {
+      "title": "CSS",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/css.png"
+    },
+    {
+      "title": "SASS",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/sass.png"
+    },
+    {
+      "title": "MUI",
+      "rating": 8,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/mui.png"
+    },
+    {
+      "title": "MongoDb",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/mongodb.png"
+    },
+    {
+      "title": "Firebase",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/firebase.png"
+    },
+    {
+      "title": "Express.JS",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/expressjsLogo.png"
+    },
+    {
+      "title": "Jest",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/images/Jest.png"
+    }
+  ]
+}
