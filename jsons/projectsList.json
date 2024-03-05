@@ -29,12 +29,12 @@
                         "id": "march-2-2023",
                         "img": "https://abdulrahilsheikh.github.io/DataBase/images/html-dom-tree.png",
                         "title": "Html Dom tree visualizer",
-                        "content": "This is a backoffice app made for our client.",
+                        "content": "This is a small tool ive created to visualize HTML DOM tree.",
                         "type": "Algorithm",
                         "tags": [
                                 "React.JS","Vite","Mermaid.js","Tailwind CSS"
                         ],
-                        "description": "This is a backoffice app made for our client",
+                        "description": "This is a small tool ive created to visualize HTML DOM tree.",
                         "linkToSite": "https://abdulrahilsheikh.github.io/Html_to_dom_tree/"
                 },
                 {
