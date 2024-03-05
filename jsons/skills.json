@@ -16,6 +16,15 @@
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/Redux.webp"
     },
     {
+      "title": "React-Native",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/react-native.png"
+    },    {
+      "title": "Realmjs",
+      "rating": 9,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/realmjs.svg"
+    },
+    {
       "title": "Javascript",
       "rating": 9,
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/javascript.png"
@@ -51,6 +60,11 @@
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/mui.png"
     },
     {
+      "title": "ShadCn",
+      "rating": 8,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/shadcn.png"
+    },
+    {
       "title": "MongoDb",
       "rating": 9,
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/mongodb.png"
@@ -61,6 +75,16 @@
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/firebase.png"
     },
     {
+      "title": "Supabase",
+      "rating": 8,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/supabase.png"
+    },
+    {
+      "title": "Prismajs",
+      "rating": 8,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/prisma.png"
+    },
+    {
       "title": "Express.JS",
       "rating": 9,
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/expressjsLogo.png"
@@ -69,6 +93,17 @@
       "title": "Jest",
       "rating": 9,
       "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/Jest.png"
+    },
+
+    {
+      "title": "Chartjs",
+      "rating": 8,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/chartjs.png"
+    },
+    {
+      "title": "Azure",
+      "rating": 5,
+      "logo": "https://abdulrahilsheikh.github.io/DataBase/icons/azure.png"
     }
   ]
 }
